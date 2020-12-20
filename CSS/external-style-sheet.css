@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: rgb(100, 92, 92);
+}
+    h1 {
+    background-color: rgb(39, 177, 211, 0.979); 
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+div.def {
+    font-size: 130%;
+}
+div.types {
+    font-size: 115%;
+}
+h4 {
+    background-color: hsl(180, 50%, 50%);
+}
+div.branches {
+    text-align: center;
+    font-size: 130%;
+}
+p#red {
+    background-color: rgb(224, 39, 39);
+}
+p#yellow {
+    background-color: rgb(223, 223, 84);
+}
+p#green {
+    background-color: rgb(63, 196, 63);
+}
+p.b2tech {
+    background-color: rgb(48, 87, 170);
+}
+p#cpyright {
+    text-align: center;
+}
+span#copyright {
+    border-left: 3px solid green;     
+}
